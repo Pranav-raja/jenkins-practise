@@ -1,2 +1,3 @@
 Hi there, 
 if you find this message, well the process completed successfully
+added poll scm for the jenkins, which checks for changes in the repo for every minutes
